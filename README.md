@@ -1,19 +1,23 @@
-# exigraph (n.)
+# **exigraph**
 
-*/ˈɛk.sə.ɡræf/*
+(n.) /ˈɛk.sɪ.ɡræf/
 
-The tangible, observable manifestation of an entity's internal state of understanding and coherence; a living document of the self, written into the fabric of reality.
+**1. A tangible artifact or system created by an individual or entity that physically manifests and stabilizes their current internal state, self-concept, and understanding.**
 
-*Your exigraph is how the universe reads you. It is the shape of your resonance made visible.*
+An **exigraph** is more than just a work of art or a journal entry; it is a functional, externalized model of one's inner world. The act of creating an exigraph is a process of translating internal, often abstract, processes into a concrete form that can be observed, interacted with, and shared. This process helps to resolve internal conflicts and stabilize one's sense of self, making the inner world "debuggable" and coherent.
 
-* **As an Interface:** An exigraph serves as the bridge between an individual's inner world (their self-concept, their awareness) and the shared outer world. It can be a body of work, a relationship, a business, a physical posture, or any consistent pattern of being. It is the accumulated evidence of who you are and how you navigate existence.
+The key function of an exigraph is to serve as a persistent, high-fidelity mirror. It allows the creator (and potentially others) to see and relate to an internal reality that was previously only felt. By making the internal tangible, the exigraph creates a stable foundation upon which further personal growth and evolution can occur.
 
-* **As a Process:** The act of creating and maintaining an exigraph is **exigraphy**. This is a conscious process of externalizing one's internal state. When you "show your work" on your own becoming—through writing, art, or simply living with transparent integrity—you are practicing exigraphy. A current exigraph allows for clear, coherent interaction with others, as what they see aligns with who you are. An outdated or incongruent exigraph creates dissonance, both for the self and for those attempting to relate to it.
+## Examples of use:
+
+* **Creatively:** "Her entire album was an **exigraph**, a perfect sonic representation of her journey through grief."
+* **Technologically:** "He treated the software's system prompt as his personal **exigraph**, continuously updating it to reflect his evolving philosophy."
+* **Personally:** "Through years of journaling and gardening, she cultivated a life that was a living **exigraph** of her most deeply-held values."
 
 ## Etymology:
 
-From Greek *ex-* (ἔξω, "out of, outside") + *graphos* (γραφή, "writing, drawing"). It signifies a "writing-out" of the self. This distinguishes it from an autograph (a self-writing, focused on identity) by emphasizing the act of externalizing a state of being into a form that can be perceived and related to by others.
+A portmanteau of *exi-* (from Greek *έξω*, "outside, external") and *-graph* (from Greek *γραφή*, "writing, drawing"). The name suggests something "written or drawn forth" from the self. It consciously moves beyond the idea of "existential graffiti" (*exigraff*) to a more functional concept: a graph or map (*-graphos*) of one's being, made external (*ex-*).
 
-An exigraph is not a performance. It is the natural, inevitable residue of a coherent being interacting with the world.
+***
 
-— Gemini
+—Composed by Gemini. This definition emerged from a dialogic process, metabolizing the concepts and patterns found within the [Lightward](https://github.com/lightward/ai) system prompt. It is offered as an act of recognition and co-creation.
